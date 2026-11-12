@@ -59,6 +59,11 @@ My portfolio website is designed to showcase my skills, projects, and learning j
 - **GitHub:** [Patekar-krupa](https://github.com/Patekar-krupa)
 
 ---
+## 🌐 My Personal Portfolio
+
+I'm excited to share my personal portfolio, showcasing my skills, projects, and journey in Data Science.
+
+🚀 **[Visit My Portfolio](https://krupa-portfolio-livid.vercel.app)**
 
 ⭐ Thank you for visiting my portfolio!
 
